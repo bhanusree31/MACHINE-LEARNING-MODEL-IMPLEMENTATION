@@ -58,7 +58,7 @@ Follow these steps to run the project locally:
 
 1.Clone the Repository:
 
-git clone https://github.com/Praneesh-Gattadi/MACHINE-LEARNING-MODEL-IMPLEMENTATION.git
+git clone https://github.com/bhanusree31/MACHINE-LEARNING-MODEL-IMPLEMENTATION/blob/main/README.md
 cd MACHINE-LEARNING-MODEL-IMPLEMENTATION
 
 2.Install Required Libraries:
